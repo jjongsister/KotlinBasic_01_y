@@ -16,6 +16,7 @@ class MainActivity : AppCompatActivity() {
 //            ctrl + / 커서가 있는 줄을 주석 처리
 
      Log.d("메인화면", "클릭용 버튼 눌림")
+     Log.e("메인화면", "에러관련 로그")
         }
     }
 }
